@@ -10,8 +10,7 @@ A responsive Flutter Web application for product management, built with BLoC for
 
 - **Clone Repo:**
   ```bash
-  git clone [YAHAN APNI GITHUB REPO KI LINK PASTE KAREIN]
-  cd your-repo-name
+  git clone [https://github.com/HarshKumar009/product_dashboard]
   
 - **Get Dependencies:**
   - flutter pub get
